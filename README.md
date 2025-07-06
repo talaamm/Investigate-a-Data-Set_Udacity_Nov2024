@@ -1,9 +1,11 @@
-## Investigate-a-Data-Set_Udacity_Nov2024
+## Investigate a Dataset
 
 # Udacity Data Analysis Project: Movie Data Exploration
 
 ### Project Overview
 This project was completed as part of my coursework in the Udacity Data Analyst Nanodegree Program. The objective was to analyze a complex dataset of movies, cleaning and transforming the data to answer specific exploratory questions. This included investigating trends in genre popularity, analyzing factors contributing to high-revenue movies, and understanding the impact of properties such as runtime and popularity.
+
+Live Demo: https://talaamm.github.io/Investigate-a-Data-Set_Udacity_Nov2024/index.html
 
 ### Dataset
 The dataset includes various attributes of movies such as:
